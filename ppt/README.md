@@ -1,1 +1,1 @@
-Dokumente zur Präsentation (Folien, figuren ...)
+Dokumente zur Präsentation (Folien, Abbildungen, plots ...)
