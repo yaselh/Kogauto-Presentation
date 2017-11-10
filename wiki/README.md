@@ -1,1 +1,1 @@
-ggf. in diesem erfolgt die Sammlung von Wiki-seiten.
+ggf. in diesem Ordner erfolgt die Sammlung von den Wiki-seiten.
