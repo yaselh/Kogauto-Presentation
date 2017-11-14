@@ -7,6 +7,7 @@ Paper zum Lesen:
 - Deeper Depth Prediction: https://arxiv.org/pdf/1606.00373.pdf <br>
 - https://isar.unipg.it/index.php?option=com_content&view=article&id=34:depth-estimation-by-deep-learning&catid=2&Itemid=188 [Die mchen genau das was wir auch vor haben, nur scheint mir das ganze ein bisschen zu sehr vereinfacht zu sein; und sie haben teilweise Matlab verwendet -> NoGo!] <br>
 - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.7759&rep=rep1&type=pdf [ausführliche Arbeit von Standford AI] <br>
+- [Learning Deconvolution for Segmantic Segmentation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf) Deconvolution wird gut erklärt: [Implementierung auf Github](https://github.com/HyeonwooNoh/DeconvNet). Könnt an Depth Estimation angepasst werden.
 
 Optional:
 - https://arxiv.org/pdf/1705.07115.pdf [Multi-Task Learning -> könnte für uns auch interessant sein....Depth Estimation + Detection oder Segmentation] <br>
