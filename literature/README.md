@@ -1,5 +1,12 @@
 In diesem Ordner sammeln wir alle nötigen Papers, Links usw.. <br>
 
+Umsetzung:
++ [Driving in the Matrix](https://arxiv.org/pdf/1610.01983.pdf): So ungefähr könnte das Paper am Ende aufgebaut sein
++ [Johannes](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf): [Portierung von Caffe auf TF](https://github.com/HyeonwooNoh/DeconvNet)
++ [Florian](https://arxiv.org/pdf/1606.00373.pdf): [Testen der TF-Implementierung](https://github.com/iro-cp/FCRN-DepthPrediction)
++ [Yassine](https://arxiv.org/pdf/1609.03677.pdf): [Testen der TF-Implementierung](https://github.com/mrharicot/monodepth)
++ Selcuk: Testen der Implementierung der Masterarbeit
+
 Paper zum Lesen:
 - https://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network.pdf <br>
 - https://arxiv.org/pdf/1502.07411.pdf [habe es nur kurz überflogen, könnte vll zu aufwendig sein sieht aber gut aus] <br>
@@ -14,9 +21,3 @@ Optional:
 - https://lmb.informatik.uni-freiburg.de/Publications/2017/UZUMIDB17/depthmotionnet.pdf [Depth +EgoMotion Estimation]<br>
 
 + es gibt am FZI eine Masterarbeit, die bereits dieses Thema behandelt. Wir bekommen whs. Code und Paper dazu.
-
-
-
-+ https://www.youtube.com/watch?v=DAOcjicFr1Y (Lecture : CNN Architectures)
-+ https://www.youtube.com/watch?v=nDPWywWRIRo (Lecture : Detection and Segmentation)
-+ http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review (A 2017 Guide to Semantic Segmentation with Deep Learning)
