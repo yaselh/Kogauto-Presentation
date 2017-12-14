@@ -3,7 +3,7 @@ In diesem Ordner sammeln wir alle nötigen Papers, Links usw.. <br>
 Umsetzung:
 + [Driving in the Matrix](https://arxiv.org/pdf/1610.01983.pdf): So ungefähr könnte das Paper am Ende aufgebaut sein
 + [Johannes](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf): [Portierung von Caffe auf TF](https://github.com/HyeonwooNoh/DeconvNet)
-+ [Florian](https://arxiv.org/pdf/1606.00373.pdf): [Testen der TF-Implementierung](https://github.com/iro-cp/FCRN-DepthPrediction)
++ [Fabian](https://arxiv.org/pdf/1606.00373.pdf): [Testen der TF-Implementierung](https://github.com/iro-cp/FCRN-DepthPrediction)
 + [Yassine](https://arxiv.org/pdf/1609.03677.pdf): [Testen der TF-Implementierung](https://github.com/mrharicot/monodepth)
 + Selcuk: Testen der Implementierung der Masterarbeit
 
