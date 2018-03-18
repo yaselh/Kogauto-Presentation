@@ -4,6 +4,9 @@
 
 https://www.overleaf.com/14692648pdkmrdkztzwj
 
+## Link zur Presi
+https://onedrive.live.com/view.aspx?resid=49A26B4D3858674B!102901&ithint=file%2cpptx&app=PowerPoint&authkey=!ADTFbgc42sZo6Fs
+
 Hier erfolgt die Sammlung von Papern und Links, sowie Notizen usw. Darüber hinaus kommt hier alles rein, was mit Präsentationen zu tun hat.
 Falls nötig, könnt ihr gern die Ordnerstrukturen anpassen.
 
