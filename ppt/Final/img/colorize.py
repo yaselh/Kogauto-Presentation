@@ -12,7 +12,7 @@ from os.path import isfile, join
 import cv2
 
 # Define your image names in this list; your images will be overwritten with the colorized versions
-images = ['gtav_cid0_c258_14614-stencil.tiff', 'gtav_cid0_c258_14740-stencil.tiff', 'gtav_cid0_c258_16053-stencil.tiff']
+images = ['training-capture1.png', 'training-capture1-2.png', 'training-capture2.png', 'training-capture2-2.png', 'training-capture3.png', 'training-capture3-1.png', 'training-capture4.png', 'training-capture4-1.png']
 for img in images:
     #img = Image.open('gtav_cid0_c258_14603-depth.png')
     im = cv2.imread(img,  cv2.IMREAD_UNCHANGED)
