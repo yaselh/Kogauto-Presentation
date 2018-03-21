@@ -1,0 +1,29 @@
+Reduce_sum of Mask:
+log_rmse[inf]d1[0]
+d2[1.3390789]
+d3[1.57178748]
+rmse[207.469177]
+abs_rel[201.761856]
+
+AP_VOC07/mAP_accumulative[0.32997678534949659]
+AP_VOC12/mAP_accumulative[0.31566921625294753]
+
+With mask=10:
+log_rmse[inf]d3[1.57307875]
+d2[1.3390789]
+rmse[207.370163]
+d1[0]
+abs_rel[201.635269]
+
+AP_VOC07/mAP_accumulative[0.32997678534949659]
+AP_VOC12/mAP_accumulative[0.315669191843317]
+
+Without mask:
+log_rmse[inf]d1[0]
+
+d2[1.3390789]
+rmse[207.370148]
+d3[1.57307863]
+abs_rel[201.635208]
+AP_VOC07/mAP_accumulative[0.32997678534949659]
+AP_VOC12/mAP_accumulative[0.315669191843317]
