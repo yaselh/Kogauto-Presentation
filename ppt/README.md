@@ -30,6 +30,3 @@ Dokumente zur Präsentation (Folien, Abbildungen, plots ...)
 
 ## Folie 34:
 -> Alle: Bewertung und verbesserungen hinsichtlich der einzelnen Modellen.
-
-## Folie N ( 0<N<40)
--> alle: Bei allen Ergebnissen Anzahl der Epochen bzw. Iterationen erwähnen.
