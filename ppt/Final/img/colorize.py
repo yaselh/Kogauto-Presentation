@@ -37,7 +37,7 @@ def colorize(image, colormap):
     return colorized
 
 # Define your image names in this list; your images will be overwritten with the colorized versions
-images = ['kitti_gtav_depth_test.png', 'kitti_gtav_pred_test.png']
+images = ['gt_conv.png', 'gt_lidar.png', 'pre.png']
 for img in images:
     #img = Image.open('gtav_cid0_c258_14603-depth.png')
     im = cv2.imread(img,  cv2.IMREAD_UNCHANGED)
