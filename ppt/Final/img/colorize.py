@@ -37,15 +37,17 @@ def colorize(image, colormap):
     return colorized
 
 # Define your image names in this list; your images will be overwritten with the colorized versions
-images = ['gtav_cid0_c258_14624-depth.png', 'gtav_cid0_c258_23014-depth.png', 'gtav_cid0_c258_27990-depth.png']
+images = ['kitti_gtav_depth_test.png', 'kitti_gtav_pred_test.png']
 for img in images:
     #img = Image.open('gtav_cid0_c258_14603-depth.png')
     im = cv2.imread(img,  cv2.IMREAD_UNCHANGED)
-    #img=mpimg.imread(('gtav_cid0_c258_14603-depth.png')
+    #im=mpimg.imread(img)
+    print(im.shape)
 
     #im_color = cv2.applyColorMap(im, cv2.COLORMAP_HSV)
+    im_color = cv2.applyColorMap(im[:,:,:3], cv2.COLORMAP_JET)
     #im_color = applyCustomColorMap(im)
-    im_color = colorize(im, cm.gist_ncar)
+    #im_color = colorize(im, cm.gist_ncar)
 
     cv2.imwrite(img, im_color)
     # cv2.imshow("Test", im_color)
